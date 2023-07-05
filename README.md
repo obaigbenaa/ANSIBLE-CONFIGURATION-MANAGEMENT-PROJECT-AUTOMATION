@@ -1,5 +1,6 @@
 # Project-11
-ANSIBLE CONFIGURATION MANAGEMENT – PROJECT AUTOMATION
+# ANSIBLE CONFIGURATION MANAGEMENT – PROJECT AUTOMATION
+
 This Project will enhance our appreciation of DevOps tools even more because it will enable us to automate most of the routine tasks with Ansible Configuration Management. At the same time, we will become confident at writing codes using declarative language such as YAML. 
 We will develop Ansible scripts to simulate the use of a Jump box/Bastion host to access our Web Servers.
 
